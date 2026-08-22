@@ -152,9 +152,9 @@ financial-market-regime-risk-forecasting/
 ├── images/
 │   ├── regime_timeline.png
 │   ├── model_comparison.png
-│   └── volatility_forecast.png    # Project visualizations
-│
-├── market-regime-risk-ml.ipynb    # Complete ML workflow
+│   └── volatility_by_regime.png   # Project visualizations
+│   └── vix_by_regime.png
+├── financial-market-regime-prediction-risk-forecasting.ipynb    # Complete ML workflow
 │
 ├── requirements.txt               # Python dependencies
 ├── LICENSE                        # MIT License
